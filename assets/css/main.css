@@ -1168,11 +1168,11 @@ textarea {
 }
 .navbar_mobile_sidebar .navbar__menu li {
   font-family: var(--font-heading);
-  font-size: 16px;
+  font-size: 18px;
   list-style: none;
-  line-height: 1.3;
-  margin: 0;
-  padding: 0;
+  line-height: 2;
+  margin: 8px;
+  padding: 8px;
 }
 .navbar_mobile_sidebar .navbar__menu li a,
 .navbar_mobile_sidebar .navbar__menu li .is-separator {
@@ -1581,9 +1581,7 @@ textarea {
   width: 100%;
 }
 .post__featured-image--full {
-  margin-left: calc(-50vw + 50% + var(--page-margin));
-  margin-right: calc(-50vw + 50% + var(--page-margin));
-  padding: 0;
+  
   text-align: center;
 }
 .post__featured-image--full img {

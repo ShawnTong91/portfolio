@@ -3,7 +3,7 @@
     <title>Ibid.</title>
     <link href="https://shawntong91.github.io/portfolio/feed.xml" rel="self" />
     <link href="https://shawntong91.github.io/portfolio" />
-    <updated>2022-12-16T17:07:24+08:00</updated>
+    <updated>2022-12-16T23:48:50+08:00</updated>
     <author>
         <name>Shawn Tong</name>
     </author>
@@ -42,7 +42,7 @@
         <media:content url="https://shawntong91.github.io/portfolio/media/posts/4/1-A.png" medium="image" />
             <category term="Showcase"/>
 
-        <updated>2022-12-16T17:07:24+08:00</updated>
+        <updated>2022-12-16T23:48:50+08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://shawntong91.github.io/portfolio/media/posts/4/1-A.png" alt="" />
@@ -94,7 +94,7 @@
         <media:content url="https://shawntong91.github.io/portfolio/media/posts/2/companyBanner-2.png" medium="image" />
             <category term="Showcase"/>
 
-        <updated>2022-12-16T17:04:01+08:00</updated>
+        <updated>2022-12-16T23:48:33+08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://shawntong91.github.io/portfolio/media/posts/2/companyBanner-2.png" alt="" />
@@ -104,7 +104,7 @@
         <content type="html">
             <![CDATA[
                     <p><img src="https://shawntong91.github.io/portfolio/media/posts/2/companyBanner-2.png" class="type:primaryImage" alt="" /></p>
-                <figure class="post__image"><img loading="lazy"  src="https://shawntong91.github.io/portfolio/media/posts/2/companyBanner.png" alt="" width="1308" height="492" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://shawntong91.github.io/portfolio/media/posts/2/responsive/companyBanner-xs.png 384w ,https://shawntong91.github.io/portfolio/media/posts/2/responsive/companyBanner-sm.png 600w ,https://shawntong91.github.io/portfolio/media/posts/2/responsive/companyBanner-md.png 768w ,https://shawntong91.github.io/portfolio/media/posts/2/responsive/companyBanner-lg.png 1200w ,https://shawntong91.github.io/portfolio/media/posts/2/responsive/companyBanner-xl.png 1600w"></figure>
+                <p class="align-center"> </p>
 <p>There are so many data platforms that have been built in recent decades, and tons of metrics have been collected. But without alignment between management goals and key metrics, more data actually brings more chaos and debt. Kyligence Zen provides the following core features to address the management, data trust, data usability, and cost challenges that enterprises are facing.</p>
             ]]>
         </content>

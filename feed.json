@@ -39,7 +39,7 @@
                    "Showcase"
             ],
             "date_published": "2022-10-26T17:54:24+08:00",
-            "date_modified": "2022-12-16T17:07:24+08:00"
+            "date_modified": "2022-12-16T23:48:50+08:00"
         },
         {
             "id": "https://shawntong91.github.io/portfolio/wow/",
@@ -62,7 +62,7 @@
             "url": "https://shawntong91.github.io/portfolio/oh/",
             "title": "oh",
             "summary": "There are so many data platforms that have been built in recent decades, and tons of metrics have been collected.",
-            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://shawntong91.github.io/portfolio/media/posts/2/companyBanner.png\" alt=\"\" width=\"1308\" height=\"492\" sizes=\"(min-width: 37.5em) 1600px, 80vw\" srcset=\"https://shawntong91.github.io/portfolio/media/posts/2/responsive/companyBanner-xs.png 384w ,https://shawntong91.github.io/portfolio/media/posts/2/responsive/companyBanner-sm.png 600w ,https://shawntong91.github.io/portfolio/media/posts/2/responsive/companyBanner-md.png 768w ,https://shawntong91.github.io/portfolio/media/posts/2/responsive/companyBanner-lg.png 1200w ,https://shawntong91.github.io/portfolio/media/posts/2/responsive/companyBanner-xl.png 1600w\"></figure>\n<p>There are so many data platforms that have been built in recent decades, and tons of metrics have been collected. But without alignment between management goals and key metrics, more data actually brings more chaos and debt. Kyligence Zen provides the following core features to address the management, data trust, data usability, and cost challenges that enterprises are facing.</p>",
+            "content_html": "<p class=\"align-center\"> </p>\n<p>There are so many data platforms that have been built in recent decades, and tons of metrics have been collected. But without alignment between management goals and key metrics, more data actually brings more chaos and debt. Kyligence Zen provides the following core features to address the management, data trust, data usability, and cost challenges that enterprises are facing.</p>",
             "image": "https://shawntong91.github.io/portfolio/media/posts/2/companyBanner-2.png",
             "author": {
                 "name": "Shawn Tong"
@@ -71,7 +71,7 @@
                    "Showcase"
             ],
             "date_published": "2022-10-24T17:40:15+08:00",
-            "date_modified": "2022-12-16T17:04:01+08:00"
+            "date_modified": "2022-12-16T23:48:33+08:00"
         },
         {
             "id": "https://shawntong91.github.io/portfolio/hi/",
