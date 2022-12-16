@@ -3,7 +3,7 @@
     <title>Ibid.</title>
     <link href="https://shawntong91.github.io/portfolio/feed.xml" rel="self" />
     <link href="https://shawntong91.github.io/portfolio" />
-    <updated>2022-12-16T16:58:22+08:00</updated>
+    <updated>2022-12-16T17:07:24+08:00</updated>
     <author>
         <name>Shawn Tong</name>
     </author>
@@ -18,7 +18,7 @@
         <id>https://shawntong91.github.io/portfolio/test/</id>
         <media:content url="https://shawntong91.github.io/portfolio/media/posts/5/2-A.png" medium="image" />
 
-        <updated>2022-12-16T16:17:04+08:00</updated>
+        <updated>2022-12-16T17:03:56+08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://shawntong91.github.io/portfolio/media/posts/5/2-A.png" alt="" />
@@ -42,7 +42,7 @@
         <media:content url="https://shawntong91.github.io/portfolio/media/posts/4/1-A.png" medium="image" />
             <category term="Showcase"/>
 
-        <updated>2022-12-16T16:56:36+08:00</updated>
+        <updated>2022-12-16T17:07:24+08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://shawntong91.github.io/portfolio/media/posts/4/1-A.png" alt="" />
@@ -67,19 +67,19 @@
         </author>
         <link href="https://shawntong91.github.io/portfolio/wow/"/>
         <id>https://shawntong91.github.io/portfolio/wow/</id>
-        <media:content url="https://shawntong91.github.io/portfolio/media/posts/3/Kyligence-B2T.png" medium="image" />
+        <media:content url="https://shawntong91.github.io/portfolio/media/posts/3/1-B3.png" medium="image" />
             <category term="Showcase"/>
 
-        <updated>2022-12-16T16:25:12+08:00</updated>
+        <updated>2022-12-16T17:04:46+08:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://shawntong91.github.io/portfolio/media/posts/3/Kyligence-B2T.png" alt="" />
+                        <img src="https://shawntong91.github.io/portfolio/media/posts/3/1-B3.png" alt="" />
                     33333
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://shawntong91.github.io/portfolio/media/posts/3/Kyligence-B2T.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://shawntong91.github.io/portfolio/media/posts/3/1-B3.png" class="type:primaryImage" alt="" /></p>
                 <p class="align-center">33333</p>
             ]]>
         </content>
@@ -94,7 +94,7 @@
         <media:content url="https://shawntong91.github.io/portfolio/media/posts/2/companyBanner-2.png" medium="image" />
             <category term="Showcase"/>
 
-        <updated>2022-12-16T16:58:22+08:00</updated>
+        <updated>2022-12-16T17:04:01+08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://shawntong91.github.io/portfolio/media/posts/2/companyBanner-2.png" alt="" />
