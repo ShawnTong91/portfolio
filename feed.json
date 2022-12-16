@@ -2,17 +2,17 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Ibid.",
     "description": "",
-    "home_page_url": "https://shawntong91.github.io",
-    "feed_url": "https://shawntong91.github.io/feed.json",
+    "home_page_url": "https://shawntong91.github.io/portfolio",
+    "feed_url": "https://shawntong91.github.io/portfolio/feed.json",
     "user_comment": "",
-    "icon": "https://shawntong91.github.io/media/website/1-A.png",
+    "icon": "https://shawntong91.github.io/portfolio/media/website/1-A.png",
     "author": {
         "name": "Shawn Tong"
     },
     "items": [
         {
-            "id": "https://shawntong91.github.io/kyligence-zen/",
-            "url": "https://shawntong91.github.io/kyligence-zen/",
+            "id": "https://shawntong91.github.io/portfolio/kyligence-zen/",
+            "url": "https://shawntong91.github.io/portfolio/kyligence-zen/",
             "title": "kyligence zen",
             "summary": "😇",
             "content_html": "<p>😇</p>",
@@ -25,12 +25,12 @@
             "date_modified": "2022-10-26T17:54:24+08:00"
         },
         {
-            "id": "https://shawntong91.github.io/wow/",
-            "url": "https://shawntong91.github.io/wow/",
+            "id": "https://shawntong91.github.io/portfolio/wow/",
+            "url": "https://shawntong91.github.io/portfolio/wow/",
             "title": "wow",
             "summary": "33333",
             "content_html": "<p class=\"align-center\">33333</p>",
-            "image": "https://shawntong91.github.io/media/posts/3/Kyligence-B2T.png",
+            "image": "https://shawntong91.github.io/portfolio/media/posts/3/Kyligence-B2T.png",
             "author": {
                 "name": "Shawn Tong"
             },
@@ -41,12 +41,12 @@
             "date_modified": "2022-10-26T11:11:25+08:00"
         },
         {
-            "id": "https://shawntong91.github.io/oh/",
-            "url": "https://shawntong91.github.io/oh/",
+            "id": "https://shawntong91.github.io/portfolio/oh/",
+            "url": "https://shawntong91.github.io/portfolio/oh/",
             "title": "oh",
             "summary": "There are so many data platforms that have been built in recent decades, and tons of metrics have been collected.",
-            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://shawntong91.github.io/media/posts/2/companyBanner.png\" alt=\"\" width=\"1308\" height=\"492\" sizes=\"(min-width: 37.5em) 1600px, 80vw\" srcset=\"https://shawntong91.github.io/media/posts/2/responsive/companyBanner-xs.png 384w ,https://shawntong91.github.io/media/posts/2/responsive/companyBanner-sm.png 600w ,https://shawntong91.github.io/media/posts/2/responsive/companyBanner-md.png 768w ,https://shawntong91.github.io/media/posts/2/responsive/companyBanner-lg.png 1200w ,https://shawntong91.github.io/media/posts/2/responsive/companyBanner-xl.png 1600w\"></figure>\n<p>There are so many data platforms that have been built in recent decades, and tons of metrics have been collected. But without alignment between management goals and key metrics, more data actually brings more chaos and debt. Kyligence Zen provides the following core features to address the management, data trust, data usability, and cost challenges that enterprises are facing.</p>",
-            "image": "https://shawntong91.github.io/media/posts/2/companyBanner-2.png",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://shawntong91.github.io/portfolio/media/posts/2/companyBanner.png\" alt=\"\" width=\"1308\" height=\"492\" sizes=\"(min-width: 37.5em) 1600px, 80vw\" srcset=\"https://shawntong91.github.io/portfolio/media/posts/2/responsive/companyBanner-xs.png 384w ,https://shawntong91.github.io/portfolio/media/posts/2/responsive/companyBanner-sm.png 600w ,https://shawntong91.github.io/portfolio/media/posts/2/responsive/companyBanner-md.png 768w ,https://shawntong91.github.io/portfolio/media/posts/2/responsive/companyBanner-lg.png 1200w ,https://shawntong91.github.io/portfolio/media/posts/2/responsive/companyBanner-xl.png 1600w\"></figure>\n<p>There are so many data platforms that have been built in recent decades, and tons of metrics have been collected. But without alignment between management goals and key metrics, more data actually brings more chaos and debt. Kyligence Zen provides the following core features to address the management, data trust, data usability, and cost challenges that enterprises are facing.</p>",
+            "image": "https://shawntong91.github.io/portfolio/media/posts/2/companyBanner-2.png",
             "author": {
                 "name": "Shawn Tong"
             },
@@ -57,11 +57,11 @@
             "date_modified": "2022-10-24T18:13:59+08:00"
         },
         {
-            "id": "https://shawntong91.github.io/hi/",
-            "url": "https://shawntong91.github.io/hi/",
+            "id": "https://shawntong91.github.io/portfolio/hi/",
+            "url": "https://shawntong91.github.io/portfolio/hi/",
             "title": "hi",
-            "content_html": "<blockquote>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://shawntong91.github.io/media/posts/1/KDS-2022-M3-4-2.png\" alt=\"\" width=\"1348\" height=\"16208\" sizes=\"(min-width: 37.5em) 1600px, 80vw\" srcset=\"https://shawntong91.github.io/media/posts/1/responsive/KDS-2022-M3-4-2-xs.png 384w ,https://shawntong91.github.io/media/posts/1/responsive/KDS-2022-M3-4-2-sm.png 600w ,https://shawntong91.github.io/media/posts/1/responsive/KDS-2022-M3-4-2-md.png 768w ,https://shawntong91.github.io/media/posts/1/responsive/KDS-2022-M3-4-2-lg.png 1200w ,https://shawntong91.github.io/media/posts/1/responsive/KDS-2022-M3-4-2-xl.png 1600w\"></figure>\n</blockquote>",
-            "image": "https://shawntong91.github.io/media/posts/1/Kyligence-B2T.png",
+            "content_html": "<blockquote>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://shawntong91.github.io/portfolio/media/posts/1/KDS-2022-M3-4-2.png\" alt=\"\" width=\"1348\" height=\"16208\" sizes=\"(min-width: 37.5em) 1600px, 80vw\" srcset=\"https://shawntong91.github.io/portfolio/media/posts/1/responsive/KDS-2022-M3-4-2-xs.png 384w ,https://shawntong91.github.io/portfolio/media/posts/1/responsive/KDS-2022-M3-4-2-sm.png 600w ,https://shawntong91.github.io/portfolio/media/posts/1/responsive/KDS-2022-M3-4-2-md.png 768w ,https://shawntong91.github.io/portfolio/media/posts/1/responsive/KDS-2022-M3-4-2-lg.png 1200w ,https://shawntong91.github.io/portfolio/media/posts/1/responsive/KDS-2022-M3-4-2-xl.png 1600w\"></figure>\n</blockquote>",
+            "image": "https://shawntong91.github.io/portfolio/media/posts/1/Kyligence-B2T.png",
             "author": {
                 "name": "Shawn Tong"
             },

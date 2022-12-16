@@ -1,42 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://shawntong91.github.io/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://shawntong91.github.io/portfolio/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://shawntong91.github.io/</loc>
+<loc>https://shawntong91.github.io/portfolio/</loc>
 </url>
 <url>
-<loc>https://shawntong91.github.io/hi/</loc>
+<loc>https://shawntong91.github.io/portfolio/hi/</loc>
 <lastmod>2022-12-16T14:23:30+08:00</lastmod>
 <image:image>
-<image:loc>https://shawntong91.github.io/media/posts/1/Kyligence-B2T.png</image:loc>
+<image:loc>https://shawntong91.github.io/portfolio/media/posts/1/Kyligence-B2T.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://shawntong91.github.io/media/posts/1/KDS-2022-M3-4-2.png</image:loc>
+<image:loc>https://shawntong91.github.io/portfolio/media/posts/1/KDS-2022-M3-4-2.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://shawntong91.github.io/kyligence-zen/</loc>
+<loc>https://shawntong91.github.io/portfolio/kyligence-zen/</loc>
 <lastmod>2022-10-26T17:54:24+08:00</lastmod>
 </url>
 <url>
-<loc>https://shawntong91.github.io/oh/</loc>
+<loc>https://shawntong91.github.io/portfolio/oh/</loc>
 <lastmod>2022-10-24T18:13:59+08:00</lastmod>
 <image:image>
-<image:loc>https://shawntong91.github.io/media/posts/2/companyBanner-2.png</image:loc>
+<image:loc>https://shawntong91.github.io/portfolio/media/posts/2/companyBanner-2.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://shawntong91.github.io/media/posts/2/companyBanner.png</image:loc>
+<image:loc>https://shawntong91.github.io/portfolio/media/posts/2/companyBanner.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://shawntong91.github.io/wow/</loc>
+<loc>https://shawntong91.github.io/portfolio/wow/</loc>
 <lastmod>2022-10-26T11:11:25+08:00</lastmod>
 <image:image>
-<image:loc>https://shawntong91.github.io/media/posts/3/Kyligence-B2T.png</image:loc>
+<image:loc>https://shawntong91.github.io/portfolio/media/posts/3/Kyligence-B2T.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
