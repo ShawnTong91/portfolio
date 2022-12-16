@@ -24,7 +24,7 @@
                    "Showcase"
             ],
             "date_published": "2022-12-16T16:17:04+08:00",
-            "date_modified": "2022-12-17T02:31:16+08:00"
+            "date_modified": "2022-12-17T02:42:24+08:00"
         },
         {
             "id": "https://shawntong91.github.io/portfolio/kyligence-zen/",
@@ -40,7 +40,7 @@
                    "Showcase"
             ],
             "date_published": "2022-10-26T17:54:24+08:00",
-            "date_modified": "2022-12-17T02:22:46+08:00"
+            "date_modified": "2022-12-17T02:42:19+08:00"
         },
         {
             "id": "https://shawntong91.github.io/portfolio/wow/",
@@ -56,7 +56,7 @@
                    "Showcase"
             ],
             "date_published": "2022-10-24T18:01:42+08:00",
-            "date_modified": "2022-12-17T02:22:41+08:00"
+            "date_modified": "2022-12-17T02:42:11+08:00"
         },
         {
             "id": "https://shawntong91.github.io/portfolio/oh/",
@@ -72,14 +72,14 @@
                    "Showcase"
             ],
             "date_published": "2022-10-24T17:40:15+08:00",
-            "date_modified": "2022-12-17T02:17:36+08:00"
+            "date_modified": "2022-12-17T02:42:06+08:00"
         },
         {
-            "id": "https://shawntong91.github.io/portfolio/hi/",
-            "url": "https://shawntong91.github.io/portfolio/hi/",
+            "id": "https://shawntong91.github.io/portfolio/about-me/",
+            "url": "https://shawntong91.github.io/portfolio/about-me/",
             "title": "Hi there, I am Shawn.",
-            "summary": "我喜欢从事围绕图形的设计工作。 目前就职于一家大数据公司，很高兴认识你。",
-            "content_html": "<p class=\"align-center\">我喜欢从事围绕图形的设计工作。</p>\n<p class=\"align-center\">目前就职于一家大数据公司，很高兴认识你。</p>",
+            "summary": "我喜欢从事围绕图形的设计工作。 目前就职于一家大数据公司，&hellip;",
+            "content_html": "<p>我喜欢从事围绕图形的设计工作。</p>\n<p>目前就职于一家大数据公司，</p>\n<p>很高兴认识你。</p>",
             "author": {
                 "name": "Shawn Tong"
             },
@@ -87,7 +87,7 @@
                    "About Me"
             ],
             "date_published": "2022-10-24T17:33:50+08:00",
-            "date_modified": "2022-12-17T02:17:10+08:00"
+            "date_modified": "2022-12-17T02:40:31+08:00"
         }
     ]
 }
