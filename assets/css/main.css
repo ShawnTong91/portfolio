@@ -4,7 +4,7 @@
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
   margin: 0;
-  padding: 40px 0px;
+  padding: 0;
 }
 
 article,
@@ -325,7 +325,7 @@ h6 + * {
 
 b,
 strong {
-  font-weight: var(--font-weight-bold);
+  font-weight: 300;
 }
 
 blockquote {
@@ -1168,21 +1168,22 @@ textarea {
 }
 .navbar_mobile_sidebar .navbar__menu li {
   font-family: var(--white);
-    font-size: 26px;
-    Text-align:center
-    font-weight: 400;
-    list-style: none;
-    line-height: 2;
-    margin: 8px;
-    padding: 16px;
+    font-size: 23px;
+    Text-align:center;
+    list-style:none;
+    line-height:2.2;
+    letter-spacing: 1px;
+    margin:30px;
+    padding:8px;
 }
 .navbar_mobile_sidebar .navbar__menu li a,
 .navbar_mobile_sidebar .navbar__menu li .is-separator {
   color: var(--white);
   display: block;
-  padding: 2px 20px 2px 20px;
+  padding: 20px 20px 2px 20px;
   position: relative;
   text-align: center;
+  font-weight: 500;
 }
 .navbar_mobile_sidebar .navbar__menu li a:active, .navbar_mobile_sidebar .navbar__menu li a:focus, .navbar_mobile_sidebar .navbar__menu li a:hover,
 .navbar_mobile_sidebar .navbar__menu li .is-separator:active,

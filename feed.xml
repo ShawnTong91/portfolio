@@ -3,14 +3,14 @@
     <title>Ibid.</title>
     <link href="https://shawntong91.github.io/portfolio/feed.xml" rel="self" />
     <link href="https://shawntong91.github.io/portfolio" />
-    <updated>2022-12-16T23:48:50+08:00</updated>
+    <updated>2022-12-17T02:17:51+08:00</updated>
     <author>
         <name>Shawn Tong</name>
     </author>
     <id>https://shawntong91.github.io/portfolio</id>
 
     <entry>
-        <title>test</title>
+        <title>Div 4</title>
         <author>
             <name>Shawn Tong</name>
         </author>
@@ -18,7 +18,7 @@
         <id>https://shawntong91.github.io/portfolio/test/</id>
         <media:content url="https://shawntong91.github.io/portfolio/media/posts/5/2-A.png" medium="image" />
 
-        <updated>2022-12-16T17:03:56+08:00</updated>
+        <updated>2022-12-17T02:17:51+08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://shawntong91.github.io/portfolio/media/posts/5/2-A.png" alt="" />
@@ -33,7 +33,7 @@
         </content>
     </entry>
     <entry>
-        <title>kyligence zen</title>
+        <title>Div 3</title>
         <author>
             <name>Shawn Tong</name>
         </author>
@@ -42,7 +42,7 @@
         <media:content url="https://shawntong91.github.io/portfolio/media/posts/4/1-A.png" medium="image" />
             <category term="Showcase"/>
 
-        <updated>2022-12-16T23:48:50+08:00</updated>
+        <updated>2022-12-17T02:17:47+08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://shawntong91.github.io/portfolio/media/posts/4/1-A.png" alt="" />
@@ -61,7 +61,7 @@
         </content>
     </entry>
     <entry>
-        <title>wow</title>
+        <title> Div 2</title>
         <author>
             <name>Shawn Tong</name>
         </author>
@@ -70,7 +70,7 @@
         <media:content url="https://shawntong91.github.io/portfolio/media/posts/3/1-B3.png" medium="image" />
             <category term="Showcase"/>
 
-        <updated>2022-12-16T17:04:46+08:00</updated>
+        <updated>2022-12-17T02:17:43+08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://shawntong91.github.io/portfolio/media/posts/3/1-B3.png" alt="" />
@@ -80,12 +80,12 @@
         <content type="html">
             <![CDATA[
                     <p><img src="https://shawntong91.github.io/portfolio/media/posts/3/1-B3.png" class="type:primaryImage" alt="" /></p>
-                <p class="align-center">33333</p>
+                <p>33333</p>
             ]]>
         </content>
     </entry>
     <entry>
-        <title>oh</title>
+        <title> Div 1</title>
         <author>
             <name>Shawn Tong</name>
         </author>
@@ -94,7 +94,7 @@
         <media:content url="https://shawntong91.github.io/portfolio/media/posts/2/companyBanner-2.png" medium="image" />
             <category term="Showcase"/>
 
-        <updated>2022-12-16T23:48:33+08:00</updated>
+        <updated>2022-12-17T02:17:36+08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://shawntong91.github.io/portfolio/media/posts/2/companyBanner-2.png" alt="" />
@@ -110,21 +110,24 @@
         </content>
     </entry>
     <entry>
-        <title>hi</title>
+        <title>Hi there, I am Shawn.</title>
         <author>
             <name>Shawn Tong</name>
         </author>
         <link href="https://shawntong91.github.io/portfolio/hi/"/>
         <id>https://shawntong91.github.io/portfolio/hi/</id>
-            <category term="Showcase"/>
+            <category term="About Me"/>
 
-        <updated>2022-12-16T16:19:40+08:00</updated>
-            <summary></summary>
+        <updated>2022-12-17T02:17:10+08:00</updated>
+            <summary>
+                <![CDATA[
+                    我喜欢从事围绕图形的设计工作。 目前就职于一家大数据公司，很高兴认识你。
+                ]]>
+            </summary>
         <content type="html">
             <![CDATA[
-                <blockquote>
-<figure class="post__image"><img loading="lazy"  src="https://shawntong91.github.io/portfolio/media/posts/1/KDS-2022-M3-4-2.png" alt="" width="1348" height="16208" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://shawntong91.github.io/portfolio/media/posts/1/responsive/KDS-2022-M3-4-2-xs.png 384w ,https://shawntong91.github.io/portfolio/media/posts/1/responsive/KDS-2022-M3-4-2-sm.png 600w ,https://shawntong91.github.io/portfolio/media/posts/1/responsive/KDS-2022-M3-4-2-md.png 768w ,https://shawntong91.github.io/portfolio/media/posts/1/responsive/KDS-2022-M3-4-2-lg.png 1200w ,https://shawntong91.github.io/portfolio/media/posts/1/responsive/KDS-2022-M3-4-2-xl.png 1600w"></figure>
-</blockquote>
+                <p class="align-center">我喜欢从事围绕图形的设计工作。</p>
+<p class="align-center">目前就职于一家大数据公司，很高兴认识你。</p>
             ]]>
         </content>
     </entry>
