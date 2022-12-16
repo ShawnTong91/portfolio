@@ -3,7 +3,7 @@
     <title>Ibid.</title>
     <link href="https://shawntong91.github.io/portfolio/feed.xml" rel="self" />
     <link href="https://shawntong91.github.io/portfolio" />
-    <updated>2022-12-17T02:22:53+08:00</updated>
+    <updated>2022-12-17T02:31:16+08:00</updated>
     <author>
         <name>Shawn Tong</name>
     </author>
@@ -17,8 +17,9 @@
         <link href="https://shawntong91.github.io/portfolio/test/"/>
         <id>https://shawntong91.github.io/portfolio/test/</id>
         <media:content url="https://shawntong91.github.io/portfolio/media/posts/5/2-A.png" medium="image" />
+            <category term="Showcase"/>
 
-        <updated>2022-12-17T02:22:53+08:00</updated>
+        <updated>2022-12-17T02:31:16+08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://shawntong91.github.io/portfolio/media/posts/5/2-A.png" alt="" />
