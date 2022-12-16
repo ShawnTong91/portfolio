@@ -14,15 +14,17 @@
             "id": "https://shawntong91.github.io/portfolio/kyligence-zen/",
             "url": "https://shawntong91.github.io/portfolio/kyligence-zen/",
             "title": "kyligence zen",
-            "summary": "😇",
-            "content_html": "<p>😇</p>",
+            "summary": "testtest testtest testtest",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://shawntong91.github.io/portfolio/media/posts/4/1-B3.png\" alt=\"\" width=\"1024\" height=\"768\" sizes=\"(min-width: 37.5em) 1600px, 80vw\" srcset=\"https://shawntong91.github.io/portfolio/media/posts/4/responsive/1-B3-xs.png 384w ,https://shawntong91.github.io/portfolio/media/posts/4/responsive/1-B3-sm.png 600w ,https://shawntong91.github.io/portfolio/media/posts/4/responsive/1-B3-md.png 768w ,https://shawntong91.github.io/portfolio/media/posts/4/responsive/1-B3-lg.png 1200w ,https://shawntong91.github.io/portfolio/media/posts/4/responsive/1-B3-xl.png 1600w\"></figure>\n<p>testtest</p>\n<p>testtest</p>\n<p>testtest</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://shawntong91.github.io/portfolio/media/posts/4/1-B3.png\" alt=\"\" width=\"1024\" height=\"768\" sizes=\"(min-width: 37.5em) 1600px, 80vw\" srcset=\"https://shawntong91.github.io/portfolio/media/posts/4/responsive/1-B3-xs.png 384w ,https://shawntong91.github.io/portfolio/media/posts/4/responsive/1-B3-sm.png 600w ,https://shawntong91.github.io/portfolio/media/posts/4/responsive/1-B3-md.png 768w ,https://shawntong91.github.io/portfolio/media/posts/4/responsive/1-B3-lg.png 1200w ,https://shawntong91.github.io/portfolio/media/posts/4/responsive/1-B3-xl.png 1600w\"></figure>",
+            "image": "https://shawntong91.github.io/portfolio/media/posts/4/1-B3-2.png",
             "author": {
                 "name": "Shawn Tong"
             },
             "tags": [
+                   "Showcase"
             ],
             "date_published": "2022-10-26T17:54:24+08:00",
-            "date_modified": "2022-10-26T17:54:24+08:00"
+            "date_modified": "2022-12-16T15:24:12+08:00"
         },
         {
             "id": "https://shawntong91.github.io/portfolio/wow/",
@@ -61,15 +63,14 @@
             "url": "https://shawntong91.github.io/portfolio/hi/",
             "title": "hi",
             "content_html": "<blockquote>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://shawntong91.github.io/portfolio/media/posts/1/KDS-2022-M3-4-2.png\" alt=\"\" width=\"1348\" height=\"16208\" sizes=\"(min-width: 37.5em) 1600px, 80vw\" srcset=\"https://shawntong91.github.io/portfolio/media/posts/1/responsive/KDS-2022-M3-4-2-xs.png 384w ,https://shawntong91.github.io/portfolio/media/posts/1/responsive/KDS-2022-M3-4-2-sm.png 600w ,https://shawntong91.github.io/portfolio/media/posts/1/responsive/KDS-2022-M3-4-2-md.png 768w ,https://shawntong91.github.io/portfolio/media/posts/1/responsive/KDS-2022-M3-4-2-lg.png 1200w ,https://shawntong91.github.io/portfolio/media/posts/1/responsive/KDS-2022-M3-4-2-xl.png 1600w\"></figure>\n</blockquote>",
-            "image": "https://shawntong91.github.io/portfolio/media/posts/1/Kyligence-B2T.png",
             "author": {
                 "name": "Shawn Tong"
             },
             "tags": [
-                   "Blog"
+                   "Showcase"
             ],
             "date_published": "2022-10-24T17:33:50+08:00",
-            "date_modified": "2022-12-16T14:23:30+08:00"
+            "date_modified": "2022-12-16T15:24:22+08:00"
         }
     ]
 }

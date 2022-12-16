@@ -3,7 +3,7 @@
     <title>Ibid.</title>
     <link href="https://shawntong91.github.io/portfolio/feed.xml" rel="self" />
     <link href="https://shawntong91.github.io/portfolio" />
-    <updated>2022-12-16T14:23:30+08:00</updated>
+    <updated>2022-12-16T15:24:22+08:00</updated>
     <author>
         <name>Shawn Tong</name>
     </author>
@@ -16,16 +16,24 @@
         </author>
         <link href="https://shawntong91.github.io/portfolio/kyligence-zen/"/>
         <id>https://shawntong91.github.io/portfolio/kyligence-zen/</id>
+        <media:content url="https://shawntong91.github.io/portfolio/media/posts/4/1-B3-2.png" medium="image" />
+            <category term="Showcase"/>
 
-        <updated>2022-10-26T17:54:24+08:00</updated>
+        <updated>2022-12-16T15:24:12+08:00</updated>
             <summary>
                 <![CDATA[
-                    😇
+                        <img src="https://shawntong91.github.io/portfolio/media/posts/4/1-B3-2.png" alt="" />
+                    testtest testtest testtest
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>😇</p>
+                    <p><img src="https://shawntong91.github.io/portfolio/media/posts/4/1-B3-2.png" class="type:primaryImage" alt="" /></p>
+                <figure class="post__image"><img loading="lazy"  src="https://shawntong91.github.io/portfolio/media/posts/4/1-B3.png" alt="" width="1024" height="768" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://shawntong91.github.io/portfolio/media/posts/4/responsive/1-B3-xs.png 384w ,https://shawntong91.github.io/portfolio/media/posts/4/responsive/1-B3-sm.png 600w ,https://shawntong91.github.io/portfolio/media/posts/4/responsive/1-B3-md.png 768w ,https://shawntong91.github.io/portfolio/media/posts/4/responsive/1-B3-lg.png 1200w ,https://shawntong91.github.io/portfolio/media/posts/4/responsive/1-B3-xl.png 1600w"></figure>
+<p>testtest</p>
+<p>testtest</p>
+<p>testtest</p>
+<figure class="post__image"><img loading="lazy"  src="https://shawntong91.github.io/portfolio/media/posts/4/1-B3.png" alt="" width="1024" height="768" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://shawntong91.github.io/portfolio/media/posts/4/responsive/1-B3-xs.png 384w ,https://shawntong91.github.io/portfolio/media/posts/4/responsive/1-B3-sm.png 600w ,https://shawntong91.github.io/portfolio/media/posts/4/responsive/1-B3-md.png 768w ,https://shawntong91.github.io/portfolio/media/posts/4/responsive/1-B3-lg.png 1200w ,https://shawntong91.github.io/portfolio/media/posts/4/responsive/1-B3-xl.png 1600w"></figure>
             ]]>
         </content>
     </entry>
@@ -85,14 +93,12 @@
         </author>
         <link href="https://shawntong91.github.io/portfolio/hi/"/>
         <id>https://shawntong91.github.io/portfolio/hi/</id>
-        <media:content url="https://shawntong91.github.io/portfolio/media/posts/1/Kyligence-B2T.png" medium="image" />
-            <category term="Blog"/>
+            <category term="Showcase"/>
 
-        <updated>2022-12-16T14:23:30+08:00</updated>
+        <updated>2022-12-16T15:24:22+08:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://shawntong91.github.io/portfolio/media/posts/1/Kyligence-B2T.png" class="type:primaryImage" alt="" /></p>
                 <blockquote>
 <figure class="post__image"><img loading="lazy"  src="https://shawntong91.github.io/portfolio/media/posts/1/KDS-2022-M3-4-2.png" alt="" width="1348" height="16208" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://shawntong91.github.io/portfolio/media/posts/1/responsive/KDS-2022-M3-4-2-xs.png 384w ,https://shawntong91.github.io/portfolio/media/posts/1/responsive/KDS-2022-M3-4-2-sm.png 600w ,https://shawntong91.github.io/portfolio/media/posts/1/responsive/KDS-2022-M3-4-2-md.png 768w ,https://shawntong91.github.io/portfolio/media/posts/1/responsive/KDS-2022-M3-4-2-lg.png 1200w ,https://shawntong91.github.io/portfolio/media/posts/1/responsive/KDS-2022-M3-4-2-xl.png 1600w"></figure>
 </blockquote>
