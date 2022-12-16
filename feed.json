@@ -31,7 +31,7 @@
             "title": "kyligence zen",
             "summary": "testtest testtest testtest",
             "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://shawntong91.github.io/portfolio/media/posts/4/1-B3.png\" alt=\"\" width=\"1024\" height=\"768\" sizes=\"(min-width: 37.5em) 1600px, 80vw\" srcset=\"https://shawntong91.github.io/portfolio/media/posts/4/responsive/1-B3-xs.png 384w ,https://shawntong91.github.io/portfolio/media/posts/4/responsive/1-B3-sm.png 600w ,https://shawntong91.github.io/portfolio/media/posts/4/responsive/1-B3-md.png 768w ,https://shawntong91.github.io/portfolio/media/posts/4/responsive/1-B3-lg.png 1200w ,https://shawntong91.github.io/portfolio/media/posts/4/responsive/1-B3-xl.png 1600w\"></figure>\n<p>testtest</p>\n<p>testtest</p>\n<p>testtest</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://shawntong91.github.io/portfolio/media/posts/4/1-B3.png\" alt=\"\" width=\"1024\" height=\"768\" sizes=\"(min-width: 37.5em) 1600px, 80vw\" srcset=\"https://shawntong91.github.io/portfolio/media/posts/4/responsive/1-B3-xs.png 384w ,https://shawntong91.github.io/portfolio/media/posts/4/responsive/1-B3-sm.png 600w ,https://shawntong91.github.io/portfolio/media/posts/4/responsive/1-B3-md.png 768w ,https://shawntong91.github.io/portfolio/media/posts/4/responsive/1-B3-lg.png 1200w ,https://shawntong91.github.io/portfolio/media/posts/4/responsive/1-B3-xl.png 1600w\"></figure>",
-            "image": "https://shawntong91.github.io/portfolio/media/posts/4/1-B3-2.png",
+            "image": "https://shawntong91.github.io/portfolio/media/posts/4/1-A.png",
             "author": {
                 "name": "Shawn Tong"
             },
@@ -39,7 +39,7 @@
                    "Showcase"
             ],
             "date_published": "2022-10-26T17:54:24+08:00",
-            "date_modified": "2022-12-16T16:24:22+08:00"
+            "date_modified": "2022-12-16T16:56:36+08:00"
         },
         {
             "id": "https://shawntong91.github.io/portfolio/wow/",
@@ -55,7 +55,7 @@
                    "Showcase"
             ],
             "date_published": "2022-10-24T18:01:42+08:00",
-            "date_modified": "2022-12-16T16:19:15+08:00"
+            "date_modified": "2022-12-16T16:25:12+08:00"
         },
         {
             "id": "https://shawntong91.github.io/portfolio/oh/",
@@ -71,7 +71,7 @@
                    "Showcase"
             ],
             "date_published": "2022-10-24T17:40:15+08:00",
-            "date_modified": "2022-12-16T16:24:09+08:00"
+            "date_modified": "2022-12-16T16:58:22+08:00"
         },
         {
             "id": "https://shawntong91.github.io/portfolio/hi/",

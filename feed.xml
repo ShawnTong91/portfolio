@@ -3,7 +3,7 @@
     <title>Ibid.</title>
     <link href="https://shawntong91.github.io/portfolio/feed.xml" rel="self" />
     <link href="https://shawntong91.github.io/portfolio" />
-    <updated>2022-12-16T16:24:22+08:00</updated>
+    <updated>2022-12-16T16:58:22+08:00</updated>
     <author>
         <name>Shawn Tong</name>
     </author>
@@ -39,19 +39,19 @@
         </author>
         <link href="https://shawntong91.github.io/portfolio/kyligence-zen/"/>
         <id>https://shawntong91.github.io/portfolio/kyligence-zen/</id>
-        <media:content url="https://shawntong91.github.io/portfolio/media/posts/4/1-B3-2.png" medium="image" />
+        <media:content url="https://shawntong91.github.io/portfolio/media/posts/4/1-A.png" medium="image" />
             <category term="Showcase"/>
 
-        <updated>2022-12-16T16:24:22+08:00</updated>
+        <updated>2022-12-16T16:56:36+08:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://shawntong91.github.io/portfolio/media/posts/4/1-B3-2.png" alt="" />
+                        <img src="https://shawntong91.github.io/portfolio/media/posts/4/1-A.png" alt="" />
                     testtest testtest testtest
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://shawntong91.github.io/portfolio/media/posts/4/1-B3-2.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://shawntong91.github.io/portfolio/media/posts/4/1-A.png" class="type:primaryImage" alt="" /></p>
                 <figure class="post__image"><img loading="lazy"  src="https://shawntong91.github.io/portfolio/media/posts/4/1-B3.png" alt="" width="1024" height="768" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://shawntong91.github.io/portfolio/media/posts/4/responsive/1-B3-xs.png 384w ,https://shawntong91.github.io/portfolio/media/posts/4/responsive/1-B3-sm.png 600w ,https://shawntong91.github.io/portfolio/media/posts/4/responsive/1-B3-md.png 768w ,https://shawntong91.github.io/portfolio/media/posts/4/responsive/1-B3-lg.png 1200w ,https://shawntong91.github.io/portfolio/media/posts/4/responsive/1-B3-xl.png 1600w"></figure>
 <p>testtest</p>
 <p>testtest</p>
@@ -70,7 +70,7 @@
         <media:content url="https://shawntong91.github.io/portfolio/media/posts/3/Kyligence-B2T.png" medium="image" />
             <category term="Showcase"/>
 
-        <updated>2022-12-16T16:19:15+08:00</updated>
+        <updated>2022-12-16T16:25:12+08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://shawntong91.github.io/portfolio/media/posts/3/Kyligence-B2T.png" alt="" />
@@ -94,7 +94,7 @@
         <media:content url="https://shawntong91.github.io/portfolio/media/posts/2/companyBanner-2.png" medium="image" />
             <category term="Showcase"/>
 
-        <updated>2022-12-16T16:24:09+08:00</updated>
+        <updated>2022-12-16T16:58:22+08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://shawntong91.github.io/portfolio/media/posts/2/companyBanner-2.png" alt="" />

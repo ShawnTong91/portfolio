@@ -1696,6 +1696,9 @@ textarea {
   color: var(--dark);
   outline: none;
 }
+.post__image--none {
+  display: none;
+}
 .post__video, .post__iframe {
   position: relative;
   display: block;
