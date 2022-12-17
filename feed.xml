@@ -3,7 +3,7 @@
     <title>Ibid.</title>
     <link href="https://shawntong91.github.io/portfolio/feed.xml" rel="self" />
     <link href="https://shawntong91.github.io/portfolio" />
-    <updated>2022-12-17T10:26:30+08:00</updated>
+    <updated>2022-12-17T11:33:19+08:00</updated>
     <author>
         <name>Shawn Tong</name>
     </author>
@@ -122,17 +122,18 @@
         <id>https://shawntong91.github.io/portfolio/about-me/</id>
             <category term="About Me"/>
 
-        <updated>2022-12-17T10:26:30+08:00</updated>
+        <updated>2022-12-17T11:33:19+08:00</updated>
             <summary>
                 <![CDATA[
-                    我喜欢从事围绕图形的设计工作。 页面正在全力建设中。&hellip;
+                    我喜欢从事围绕图形的设计工作。 很高兴认识你。&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>我喜欢从事围绕图形的设计工作。</p>
-<p>页面正在全力建设中。</p>
-<p>很高兴认识你。</p>
+                <p class="align-center">我喜欢从事围绕图形的设计工作。</p>
+<p class="align-center">很高兴认识你。</p>
+<p> </p>
+<p class="align-center">[页面正在全力建设中]</p>
             ]]>
         </content>
     </entry>
