@@ -90,9 +90,9 @@
         {
             "id": "https://shawntong91.github.io/portfolio/about-me/",
             "url": "https://shawntong91.github.io/portfolio/about-me/",
-            "title": "Hi there, I am Shawn.",
-            "summary": "很高兴认识你。 [页面正在全力建设中]",
-            "content_html": "<p class=\"align-center\">很高兴认识你。</p>\n<p> </p>\n<p class=\"align-center\">[页面正在全力建设中]</p>",
+            "title": "[ 页面建设中 ]",
+            "summary": "很高兴认识你。 tongshangi8700@live.com",
+            "content_html": "<p class=\"align-center\"> </p>\n<p> </p>\n<p class=\"align-center\">很高兴认识你。</p>\n<p class=\"align-center\"><a href=\"mailto:tongshangi8700@live.com\">tongshangi8700@live.com</a></p>\n<p class=\"align-center\"> </p>\n<p class=\"align-center\"> </p>",
             "author": {
                 "name": "Shawn Tong"
             },
@@ -100,7 +100,7 @@
                    "About Me"
             ],
             "date_published": "2022-10-24T17:33:50+08:00",
-            "date_modified": "2022-12-17T12:58:44+08:00"
+            "date_modified": "2022-12-17T15:45:58+08:00"
         }
     ]
 }
