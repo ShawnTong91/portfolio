@@ -1246,8 +1246,9 @@ textarea {
 .container {
   -webkit-box-sizing: content-box;
           box-sizing: content-box;
-  margin-left: .5rem;
-  margin-right: .5rem;
+  margin:auto;
+  padding-left: .5rem;
+  padding-right: .5rem;
   max-width: var(--page-width);
   padding: 0 var(--page-margin);
 }
