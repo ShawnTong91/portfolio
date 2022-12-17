@@ -31,7 +31,7 @@
             "url": "https://shawntong91.github.io/portfolio/kyligence-zen/",
             "title": "Div 3",
             "summary": "testtest testtest&hellip;",
-            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://shawntong91.github.io/portfolio/media/posts/4/1-B3.png\" alt=\"\" width=\"1024\" height=\"768\" sizes=\"(min-width: 37.5em) 1600px, 80vw\" srcset=\"https://shawntong91.github.io/portfolio/media/posts/4/responsive/1-B3-xs.png 384w ,https://shawntong91.github.io/portfolio/media/posts/4/responsive/1-B3-sm.png 600w ,https://shawntong91.github.io/portfolio/media/posts/4/responsive/1-B3-md.png 768w ,https://shawntong91.github.io/portfolio/media/posts/4/responsive/1-B3-lg.png 1200w ,https://shawntong91.github.io/portfolio/media/posts/4/responsive/1-B3-xl.png 1600w\"></figure>\n<p>testtest</p>\n<p>testtest</p>\n<p>testtest</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://shawntong91.github.io/portfolio/media/posts/4/1-B3.png\" alt=\"\" width=\"1024\" height=\"768\" sizes=\"(min-width: 37.5em) 1600px, 80vw\" srcset=\"https://shawntong91.github.io/portfolio/media/posts/4/responsive/1-B3-xs.png 384w ,https://shawntong91.github.io/portfolio/media/posts/4/responsive/1-B3-sm.png 600w ,https://shawntong91.github.io/portfolio/media/posts/4/responsive/1-B3-md.png 768w ,https://shawntong91.github.io/portfolio/media/posts/4/responsive/1-B3-lg.png 1200w ,https://shawntong91.github.io/portfolio/media/posts/4/responsive/1-B3-xl.png 1600w\"></figure>",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://shawntong91.github.io/portfolio/media/posts/4/1-B3.png\" alt=\"\" width=\"1024\" height=\"768\" sizes=\"(min-width: 37.5em) 1600px, 80vw\" srcset=\"https://shawntong91.github.io/portfolio/media/posts/4/responsive/1-B3-xs.png 384w ,https://shawntong91.github.io/portfolio/media/posts/4/responsive/1-B3-sm.png 600w ,https://shawntong91.github.io/portfolio/media/posts/4/responsive/1-B3-md.png 768w ,https://shawntong91.github.io/portfolio/media/posts/4/responsive/1-B3-lg.png 1200w ,https://shawntong91.github.io/portfolio/media/posts/4/responsive/1-B3-xl.png 1600w\"></figure>\n<p>testtest</p>\n<p>testtest</p>\n<p>yoyoyo</p>\n<p>yoyoyo</p>\n<p>hihihi</p>\n<p>testtest</p>\n<figure class=\"post__image post__image--full\"><img loading=\"lazy\"  src=\"https://shawntong91.github.io/portfolio/media/posts/4/1-B3.png\" alt=\"\" width=\"100%\" height=\"768\" sizes=\"(min-width: 37.5em) 1600px, 80vw\" srcset=\"https://shawntong91.github.io/portfolio/media/posts/4/responsive/1-B3-xs.png 384w ,https://shawntong91.github.io/portfolio/media/posts/4/responsive/1-B3-sm.png 600w ,https://shawntong91.github.io/portfolio/media/posts/4/responsive/1-B3-md.png 768w ,https://shawntong91.github.io/portfolio/media/posts/4/responsive/1-B3-lg.png 1200w ,https://shawntong91.github.io/portfolio/media/posts/4/responsive/1-B3-xl.png 1600w\"></figure>",
             "image": "https://shawntong91.github.io/portfolio/media/posts/4/1-A.png",
             "author": {
                 "name": "Shawn Tong"
@@ -40,7 +40,7 @@
                    "Showcase"
             ],
             "date_published": "2022-10-26T17:54:24+08:00",
-            "date_modified": "2022-12-17T02:42:19+08:00"
+            "date_modified": "2022-12-17T10:19:10+08:00"
         },
         {
             "id": "https://shawntong91.github.io/portfolio/wow/",
@@ -78,8 +78,8 @@
             "id": "https://shawntong91.github.io/portfolio/about-me/",
             "url": "https://shawntong91.github.io/portfolio/about-me/",
             "title": "Hi there, I am Shawn.",
-            "summary": "我喜欢从事围绕图形的设计工作。 目前就职于一家大数据公司，&hellip;",
-            "content_html": "<p>我喜欢从事围绕图形的设计工作。</p>\n<p>目前就职于一家大数据公司，</p>\n<p>很高兴认识你。</p>",
+            "summary": "我喜欢从事围绕图形的设计工作。 页面正在全力建设中。&hellip;",
+            "content_html": "<p>我喜欢从事围绕图形的设计工作。</p>\n<p>页面正在全力建设中。</p>\n<p>很高兴认识你。</p>",
             "author": {
                 "name": "Shawn Tong"
             },
@@ -87,7 +87,7 @@
                    "About Me"
             ],
             "date_published": "2022-10-24T17:33:50+08:00",
-            "date_modified": "2022-12-17T02:40:31+08:00"
+            "date_modified": "2022-12-17T10:26:30+08:00"
         }
     ]
 }

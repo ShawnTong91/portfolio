@@ -3,7 +3,7 @@
     <title>Ibid.</title>
     <link href="https://shawntong91.github.io/portfolio/feed.xml" rel="self" />
     <link href="https://shawntong91.github.io/portfolio" />
-    <updated>2022-12-17T02:42:24+08:00</updated>
+    <updated>2022-12-17T10:26:30+08:00</updated>
     <author>
         <name>Shawn Tong</name>
     </author>
@@ -43,7 +43,7 @@
         <media:content url="https://shawntong91.github.io/portfolio/media/posts/4/1-A.png" medium="image" />
             <category term="Showcase"/>
 
-        <updated>2022-12-17T02:42:19+08:00</updated>
+        <updated>2022-12-17T10:19:10+08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://shawntong91.github.io/portfolio/media/posts/4/1-A.png" alt="" />
@@ -56,8 +56,11 @@
                 <figure class="post__image"><img loading="lazy"  src="https://shawntong91.github.io/portfolio/media/posts/4/1-B3.png" alt="" width="1024" height="768" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://shawntong91.github.io/portfolio/media/posts/4/responsive/1-B3-xs.png 384w ,https://shawntong91.github.io/portfolio/media/posts/4/responsive/1-B3-sm.png 600w ,https://shawntong91.github.io/portfolio/media/posts/4/responsive/1-B3-md.png 768w ,https://shawntong91.github.io/portfolio/media/posts/4/responsive/1-B3-lg.png 1200w ,https://shawntong91.github.io/portfolio/media/posts/4/responsive/1-B3-xl.png 1600w"></figure>
 <p>testtest</p>
 <p>testtest</p>
+<p>yoyoyo</p>
+<p>yoyoyo</p>
+<p>hihihi</p>
 <p>testtest</p>
-<figure class="post__image"><img loading="lazy"  src="https://shawntong91.github.io/portfolio/media/posts/4/1-B3.png" alt="" width="1024" height="768" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://shawntong91.github.io/portfolio/media/posts/4/responsive/1-B3-xs.png 384w ,https://shawntong91.github.io/portfolio/media/posts/4/responsive/1-B3-sm.png 600w ,https://shawntong91.github.io/portfolio/media/posts/4/responsive/1-B3-md.png 768w ,https://shawntong91.github.io/portfolio/media/posts/4/responsive/1-B3-lg.png 1200w ,https://shawntong91.github.io/portfolio/media/posts/4/responsive/1-B3-xl.png 1600w"></figure>
+<figure class="post__image post__image--full"><img loading="lazy"  src="https://shawntong91.github.io/portfolio/media/posts/4/1-B3.png" alt="" width="100%" height="768" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://shawntong91.github.io/portfolio/media/posts/4/responsive/1-B3-xs.png 384w ,https://shawntong91.github.io/portfolio/media/posts/4/responsive/1-B3-sm.png 600w ,https://shawntong91.github.io/portfolio/media/posts/4/responsive/1-B3-md.png 768w ,https://shawntong91.github.io/portfolio/media/posts/4/responsive/1-B3-lg.png 1200w ,https://shawntong91.github.io/portfolio/media/posts/4/responsive/1-B3-xl.png 1600w"></figure>
             ]]>
         </content>
     </entry>
@@ -119,16 +122,16 @@
         <id>https://shawntong91.github.io/portfolio/about-me/</id>
             <category term="About Me"/>
 
-        <updated>2022-12-17T02:40:31+08:00</updated>
+        <updated>2022-12-17T10:26:30+08:00</updated>
             <summary>
                 <![CDATA[
-                    我喜欢从事围绕图形的设计工作。 目前就职于一家大数据公司，&hellip;
+                    我喜欢从事围绕图形的设计工作。 页面正在全力建设中。&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <p>我喜欢从事围绕图形的设计工作。</p>
-<p>目前就职于一家大数据公司，</p>
+<p>页面正在全力建设中。</p>
 <p>很高兴认识你。</p>
             ]]>
         </content>

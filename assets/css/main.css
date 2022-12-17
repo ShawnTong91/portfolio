@@ -1259,7 +1259,8 @@ textarea {
 .hero {
   color: var(--gray-1);
   font-size: 1rem;
-  padding-bottom: var(--magic-number);
+  padding-bottom: 12rem;
+  padding-top: 4rem;
   max-width: var(--full-width);
 }
 @media screen and (min-width: 20rem) {
@@ -1578,7 +1579,7 @@ textarea {
 }
 .post__featured-image img {
   display: block;
-  height: inherit;
+  height: auto;
   -o-object-fit: cover;
      object-fit: cover;
   max-width: var(--page-width);
@@ -1822,7 +1823,11 @@ textarea {
   margin-top: calc(var(--magic-number) / 2);
 }
 .post__related {
+  margin: auto;
+  width: 60%;
   margin-top: var(--magic-number);
+  
+  
 }
 .post__related__title {
   font-size: 1rem;
@@ -2210,8 +2215,10 @@ textarea {
 }
 
 .footer {
+  margin: auto;
+  width: 60%;
   border-top: 1px solid var(--light);
-  color: var(--gray-1);
+  color: var(--light);
   font-size: 0.7901234568rem;
   margin-top: var(--magic-number);
   margin-bottom: calc(var(--magic-number) / 2);
