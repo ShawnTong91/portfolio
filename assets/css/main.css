@@ -60,7 +60,7 @@ address {
 }
 
 .pinterest:hover svg {
-  fill: #E84D87;
+  fill: #de1515;
 }
 
 .youtube:hover svg {
@@ -81,6 +81,10 @@ address {
 
 .pocket:hover svg {
   fill: #ED4255;
+}
+
+.dribbble:hover svg {
+  fill: #E84D87;
 }
 
 ::-moz-selection {
