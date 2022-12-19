@@ -1174,12 +1174,12 @@ textarea {
 }
 .navbar_mobile_sidebar .navbar__menu li {
   font-family: var(--white);
-    font-size: 29px;
+    font-size: 24px;
     Text-align:center;
     list-style:none;
     line-height:2.2;
     letter-spacing: 1px;
-    margin:30px;
+    margin:16px;
     padding:8px;
 }
 .navbar_mobile_sidebar .navbar__menu li a,
