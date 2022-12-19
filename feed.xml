@@ -169,30 +169,4 @@
             ]]>
         </content>
     </entry>
-    <entry>
-        <title>[ 页面建设中 ]</title>
-        <author>
-            <name>Shawn Tong</name>
-        </author>
-        <link href="https://shawntong91.github.io/portfolio/about-me/"/>
-        <id>https://shawntong91.github.io/portfolio/about-me/</id>
-            <category term="About Me"/>
-
-        <updated>2022-12-17T15:45:58+08:00</updated>
-            <summary>
-                <![CDATA[
-                    很高兴认识你。 tongshangi8700@live.com
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p class="align-center"> </p>
-<p> </p>
-<p class="align-center">很高兴认识你。</p>
-<p class="align-center"><a href="mailto:tongshangi8700@live.com">tongshangi8700@live.com</a></p>
-<p class="align-center"> </p>
-<p class="align-center"> </p>
-            ]]>
-        </content>
-    </entry>
 </feed>

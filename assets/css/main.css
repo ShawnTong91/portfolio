@@ -2446,8 +2446,8 @@ textarea {
 @media all and (min-width: 20em) {
   .gallery__item {
     -webkit-box-flex: 1;
-        -ms-flex: 1 0 50%;
-            flex: 1 0 50%;
+        -ms-flex: 1 0 100%;
+            flex: 1 0 100%;
   }
 }
 @media all and (min-width: 30em) {
